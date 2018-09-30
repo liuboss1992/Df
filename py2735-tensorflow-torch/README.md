@@ -1,19 +1,17 @@
-
 # Docker images for deep learing computer version.
 
 
 ## py2735-tensorflow-torch
 
+### Dockerfile
+> - 参考我的github:[py2735-tensorflow-torch](https://github.com/liuboss1992/Df/tree/master/py2735-tensorflow-torch)
+
 ### 基本模块
 #### python2.7
 > * torch 0.4.0 
 > * tensorflow 1.4.0
-> * numpy 1.15.2
-
 ### python3.5
 > * torch 0.4.1
-> * numpy 1.15.2
-
 
 
 ### pip包
@@ -120,3 +118,4 @@ docker pull liuboss/dlcvimg:py2735-tensorflow-torch
 * * *
 
 如有其他疑问联系本人：liuchuanbin1992@gmail.com
+
